@@ -1,0 +1,41 @@
+.Estrutura{
+    padding-top: 90px;
+    text-align: center;
+}
+
+.Estrutura h1{
+    padding-bottom: 20px;
+}
+
+.Estrutura img{
+  
+    width: 1000px;
+    max-width: 1200px;
+    margin: 6em 0;  
+}
+
+
+.NovaParte {
+    padding-top: 50px;
+    text-align: justify;
+    margin-left: 350px;
+
+}
+
+.NovaParte h1 {
+    
+    margin-left: 440px;
+
+}
+.NovaParte p {
+    
+    margin-left: 440px;
+
+}
+
+.NovaParte img{
+    width: 600px;
+
+    margin: -200em 0px -270px -190px;
+    
+}

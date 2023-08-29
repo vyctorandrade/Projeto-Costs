@@ -1,0 +1,99 @@
+.Contato{
+    
+    padding: 3em;
+    text-align: center;
+    
+}
+
+
+
+.Contato_list{
+
+    
+    justify-content: center;
+    list-style-type: none;
+   
+    margin-left: -63px;
+    margin-top: 100px;
+  
+  
+}
+.Contato_list li{
+    cursor: pointer;
+    font-size: 1.5em;
+    color: black;
+    background-color: #FFDAAA;
+    box-shadow: 3px 3px 3px  rgba(0, 0, 0, 0.39);
+    border-radius: 2em;
+    padding: 5px;
+    margin: 10px;
+    width: 150px;
+  
+    
+}
+
+.Contato p{
+    display: inline;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+  
+   
+}
+
+.Contato_list li:hover{
+    color: #ffbb33;
+}
+
+
+
+
+
+.Estiloum{
+    display: block;
+ 
+}
+
+.Estiloum p{
+    margin-top: 3px;
+    
+
+}
+.texto_input{
+    width: 50px;
+}
+
+.Estiloum textarea{
+    width: 323px; 
+    height: 125px;
+}
+
+.Estiloum input{
+    width: 323px; 
+    
+}
+
+.Estiloum button{
+    background-color: #222;
+    color: #fff;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: 0.5s;
+    cursor: pointer;
+    max-height: 40px;
+    border: none;
+}
+
+
+.Estiloum button:hover{
+    color: #ffbb33;
+}
+
+.Estiloum form{
+    padding-top: 20px;
+}
+
+.Estiloum span{
+    font-weight: bold;
+}
+
