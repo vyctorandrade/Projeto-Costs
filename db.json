@@ -1,5 +1,30 @@
 {
-  "projects": [],
+  "projects": [
+    {
+      "name": "dev",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 5000,
+      "services": [
+        {
+          "name": "contratar frontend",
+          "cost": "2000",
+          "description": "front end",
+          "id": "7c151129-9bcf-4682-ab31-5fcc3babf650"
+        },
+        {
+          "name": "back end dev",
+          "cost": "3000",
+          "description": "criar api ",
+          "id": "9369d1bf-d9eb-44d8-a08f-52b79247a794"
+        }
+      ],
+      "id": 1
+    }
+  ],
   "categories": [
     {
       "id": 1,
