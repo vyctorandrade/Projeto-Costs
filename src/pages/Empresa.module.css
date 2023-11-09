@@ -94,12 +94,13 @@
 
  .Estrutura{
     width: 100%;
-    height: 110vh;
+    height: 105vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     gap: 1rem;
+    margin-bottom: 123px;
  }
 
  .Estrutura img{
@@ -115,19 +116,22 @@
     font-size: 14.5px;
     flex-direction: column;
     margin-top: -400px;
-    margin-left: -300px; 
+    margin-left: -330px; 
     display: flex;
 }
 .NovaParte p{
     display: flex;
-    margin-left: -170px;
+    margin-left: -326px;
     margin-bottom: 120px;
-    width:70vw;
+    width:90vw;
+    
+    font-size: 14px;
     
 }
 
 .NovaParte img{
-    margin: 140px 0px -50px -300px;
+    margin: 140px 0px 0px -330px;
+
  
     width: 90vw;
     height: auto;
