@@ -94,7 +94,7 @@
 
  .Estrutura{
     width: 100%;
-    height: 150vh;
+    height: 110vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -112,7 +112,7 @@
 
 .NovaParte h1{
 
-    font-size: 14px;
+    font-size: 14.5px;
     flex-direction: column;
     margin-top: -400px;
     margin-left: -300px; 
@@ -121,12 +121,14 @@
 .NovaParte p{
     display: flex;
     margin-left: -170px;
-    margin-bottom: 110px;
+    margin-bottom: 120px;
     width:70vw;
+    
 }
 
 .NovaParte img{
-    margin: 20px 0px 190px -310px;
+    margin: 140px 0px -50px -300px;
+ 
     width: 90vw;
     height: auto;
     display: flex;
