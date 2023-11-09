@@ -1,8 +1,9 @@
 .footer{
     background-color: #222;
     color: #fff;
-    padding: 3em;
+    padding: 1.4em;
     text-align: center;
+    
     
 }
 
@@ -29,4 +30,30 @@
 .copy_right span{
     font-weight: bold;
     color: #ffbb33;
+}
+
+
+@media (max-width: 780px) { 
+
+
+    .footer{
+        padding: 40px;
+    }
+
+    .copy_right p, span{
+        font-size: 14px;
+    }
+    .social_list li{
+        margin: 0 1em;
+        cursor: pointer;
+        font-size: 1.3em;
+    }
+
+}
+
+@media (max-width: 480px) { 
+    .footer{
+        padding: 5px;
+    }
+
 }
