@@ -3,6 +3,7 @@ import{FaFacebook, FaInstagram, FaLinkedin} from 'react-icons/fa'
 import styles from './Contato.module.css'
 
 function Contato() {
+
     return(
 
         <div className={styles.Estiloum}>
@@ -10,11 +11,12 @@ function Contato() {
             <p>Você pode fazer orçamentos e tirar dúvidas entrando em contato, <br /> através dos meios de comunicação.
             </p>
             <div>
+
+                
             <form action="Dúvida">
-           
-                <label htmlFor="email"> <span>Envie-nos uma mensagem</span></label> 
-                 <br />
-                <input placeholder='Digite o seu e-mail' type="email" name="email" id="email" /> <br />
+            <label htmlFor="email"> <span>Envie-nos uma mensagem</span></label> 
+             <br />
+            <input placeholder='Digite o seu e-mail' type="email" name="email" id="email" /> <br />
            
            
             <textarea placeholder='Digite sua mensagem' name="mensagem"></textarea>
