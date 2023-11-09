@@ -37,7 +37,7 @@
 
 
     .footer{
-        padding: 40px;
+        padding: 45px;
     }
 
     .copy_right p, span{
@@ -53,7 +53,11 @@
 
 @media (max-width: 480px) { 
     .footer{
-        padding: 5px;
+       width: 100%;
+        padding: 10px;
+       
     }
+
+
 
 }
